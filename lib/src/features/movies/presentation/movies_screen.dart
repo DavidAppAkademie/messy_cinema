@@ -7,7 +7,7 @@ class MoviesScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         leading: const Icon(Icons.local_movies_rounded),
-        title: const Text("Batch #5 Kino"),
+        title: const Text("Batch #9 Kino"),
       ),
       body: SingleChildScrollView(
         scrollDirection: Axis.horizontal,
